@@ -4,6 +4,10 @@ https://bizpy.connpass.com/event/192696/
 
 ## 資料
 
+- [導入資料](https://github.com/drillan/bizpy/blob/main/20201111/intro.md)
+  - [プレゼンモード](https://hackmd.io/@yCk9sSY0T8qh_t5jG6hoqA/S1Wj9xKYw#/)
+- notebook
+
 タイトル|リンク
 ---|---
 pandas入門 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/drillan/bizpy/blob/main/20201111/pandas.ipynb)
