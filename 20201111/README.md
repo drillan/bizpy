@@ -23,9 +23,8 @@ pandas入門 | [![Open In Colab](https://colab.research.google.com/assets/colab-
 Pythonインタラクティブ・データビジュアライゼーション入門  
 ―Plotly/Dashによるデータ可視化とWebアプリ構築―  
 
-[![](https://github.com/drillan/bizpy/blob/main/20201111/assets/plotly-dash-book-cover.png?raw=true)](https://amzn.to/38vKE1g)
-
+<a href="https://amzn.to/38vKE1g"><img src="https://images-na.ssl-images-amazon.com/images/I/81OzOBKS8yL.jpg" width=200 target="_blank" rel="noopener noreferrer"></img></a>
 
 改訂版 Pythonユーザのための Jupyter［実践］入門  
 
-[![jupyterbook](https://gihyo.jp/assets/images/cover/2020/thumb/TH160_9784297115685.jpg)](https://amzn.to/3khPFwr)
+<a href="https://amzn.to/3khPFwr"><img src="https://gihyo.jp/assets/images/cover/2020/thumb/TH160_9784297115685.jpg" width=200 target="_blank" rel="noopener noreferrer"></img></a>
